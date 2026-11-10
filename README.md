@@ -8,6 +8,10 @@ Previously I was a **Product Management Intern at Pointz**, where I ran 20+ cust
 
 #### Featured projects
 
+**[LLM Rankings](https://github.com/curruy123/LLMrankings)** · Python, SciPy, NumPy, pandas, matplotlib<br>
+Task-specific rankings of 52 LLMs from 51,659 LMArena human preference votes: Bradley–Terry–Luce models with bootstrap rank uncertainty, comparing math, coding and creative writing, and testing whether task-specific rankings predict held-out votes better than one overall ranking.<br>
+→ minimax-m1 jumps from **#12** overall to **#1** in math; a partially pooled task-specific model beat the overall ranking in **all 25** cross-validation folds. [Findings](https://github.com/curruy123/LLMrankings/blob/main/05_research_summary.md)
+
 **[Snowball](https://github.com/curruy123/Snowball)** · Python, pandas, scikit-learn, Riot Games API, Chart.js<br>
 League of Legends performance analytics: an ETL pipeline and win-prediction models (logistic regression, random forest) that find when early leads turn into wins, plus a dashboard that flags the costliest moment of each new game.<br>
 → Held leads won **89%** of games vs. **42%** after 2+ deaths while ahead. [Live dashboard](https://curruy123.github.io/finalportf/convert/)
@@ -29,7 +33,7 @@ A responsive, accessible portfolio built from scratch with a reusable design sys
 #### Toolkit
 
 **Languages:** Python · SQL · Java · JavaScript · TypeScript · HTML/CSS<br>
-**Data & ML:** pandas · NumPy · scikit-learn · SciPy · NLTK<br>
+**Data & ML:** pandas · NumPy · scikit-learn · SciPy · matplotlib · NLTK<br>
 **Tools:** Git · Excel · Figma
 
 ---
